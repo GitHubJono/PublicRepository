@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 "content1" 
 "new content" 
+=======
+"new info" 
+>>>>>>> new_branch
